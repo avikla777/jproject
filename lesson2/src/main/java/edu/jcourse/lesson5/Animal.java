@@ -4,6 +4,8 @@ public class Animal {
 
     private String name;
     private int age;
+    private String type;
+
 
     public Animal() {}
     //dobavili def konstruktor
