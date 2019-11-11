@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5d9daf78-6780-462d-a146-46f2a6f2450b" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1SqAs5UGV4wI1Sxmhq3OacFJ5GO" />
+  <component name="PropertiesComponent">
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\jcourse\lesson2\src\main\java" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.OOPMain">
+    <configuration name="ArrayDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="edu.jcourse.lesson3.ArrayDemo" />
+      <module name="lesson2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edu.jcourse.lesson3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CircleMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="edu.jcourse.lesson5.CircleMain" />
+      <module name="lesson2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edu.jcourse.lesson5.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="edu.jcourse.lesson4.Main" />
+      <module name="lesson2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edu.jcourse.lesson4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OOPMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="edu.jcourse.lesson5.OOPMain" />
+      <module name="lesson2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edu.jcourse.lesson5.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TeamCalc" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="edu.jcourse.lesson3.TeamCalc" />
+      <module name="lesson2" />
+      <option name="PROGRAM_PARAMETERS" value="5 &amp; 6" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ZeroDivision" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="edu.jcourse.lesson4.ZeroDivision" />
+      <module name="lesson2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edu.jcourse.lesson4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.TeamCalc" />
+      <item itemvalue="Application.ZeroDivision" />
+      <item itemvalue="Application.ArrayDemo" />
+      <item itemvalue="Application.Main" />
+      <item itemvalue="Application.OOPMain" />
+      <item itemvalue="Application.CircleMain" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.OOPMain" />
+        <item itemvalue="Application.CircleMain" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.ArrayDemo" />
+        <item itemvalue="Application.ZeroDivision" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5d9daf78-6780-462d-a146-46f2a6f2450b" name="Default Changelist" comment="" />
+      <created>1572280956146</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1572280956146</updated>
+    </task>
+    <servers />
+  </component>
+</project>
